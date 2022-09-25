@@ -188,6 +188,10 @@ Digite os seguintes comandos:
   npm install --save-dev @nomiclabs/hardhat-ethers "ethers@^5.0.0"
 ```
 Isso instalará todas as dependências definidas no arquivo package.json que são necessárias para rodar o projeto. Agora o projeto já está pronto para ser modificado.
+  
+## 📄 Vídeo
+  
+## 📄 Documentação da API
 
 ## 📄 Referências 
 
