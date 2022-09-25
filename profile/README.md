@@ -191,6 +191,13 @@ Isso instalará todas as dependências definidas no arquivo package.json que sã
 
 ## 📄 Referências 
 
+- CUBO TECNOLOGIA. O que blockchain tem a ver com a LGPD? 2022. Disponível em:
+https://blog.cubos.io/o-que-blockchain-tem-a-ver-com-a-lgpd/# . Acesso em: 25/09/2022. 
+
+- INFOMONEY. Open banking: o que é e como funciona? Disponível em: https://bit.ly/3hCWYkl.  Acesso em: 24 de setembro de 2022.
+
+- ZHENG, S. X. Z. et al. An Overview on Smart Contracts: Challenges, Advances and Platforms. Future Generation Computer Systems, ELSEVIER, v. 105, n. 0, p. 475 – 491, 22 2019. Disponível em: https://doi.org/10.1016/j.future.2019.12.019 . Acesso em: 24 de setembro de 2022.
+
 ## 👩‍🎓 Colaboradores 
 
 <table>
