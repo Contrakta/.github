@@ -189,14 +189,24 @@ Digite os seguintes comandos:
 ```
 Isso instalará todas as dependências definidas no arquivo package.json que são necessárias para rodar o projeto. Agora o projeto já está pronto para ser modificado.
   
-## 📄 Vídeo
+## 🎥 Vídeo
+
+Abaixo encontra-se os vídeos criados para a apresentação da solução Contrakta. 
+
+- <a href="#">Vídeo Demo
+- <a href="https://www.youtube.com/watch?v=1f-WrMS5Kuk">Vídeo Benefícios de contratação
+- <a href="#">Vídeo Elevator Pitch
+- <a href="https://www.youtube.com/channel/UCsYpSb3Rt8ZS-fMFGTHqs-Q">Canal</a>
   
-## 📄 Documentação da API
+## 📘 Documentação da API
+
+Para acessar a documentação criada para a API da solução, clique aqui.
 
 ## 📄 Referências 
 
-- CUBO TECNOLOGIA. O que blockchain tem a ver com a LGPD? 2022. Disponível em:
-https://blog.cubos.io/o-que-blockchain-tem-a-ver-com-a-lgpd/# . Acesso em: 25/09/2022. 
+- AWS (Brasil).O que é uma API?. [S. l.], 2° Semestre 2022.Disponível em: https://aws.amazon.com/pt/what-is/api/. Acesso em: 25 set. 2022.
+
+- CUBO TECNOLOGIA.O que blockchain tem a ver com a LGPD? 2022. Disponível em: https://blog.cubos.io/o-que-blockchain-tem-a-ver-com-a-lgpd/#. Acesso em: 25/09/2022. 
 
 - INFOMONEY. Open banking: o que é e como funciona? Disponível em: https://bit.ly/3hCWYkl.  Acesso em: 24 de setembro de 2022.
 
