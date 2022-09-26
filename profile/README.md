@@ -195,7 +195,7 @@ Abaixo encontra-se os vídeos criados para a apresentação da solução Contrak
 
 - <a href="#">Vídeo Demo
 - <a href="https://www.youtube.com/watch?v=1f-WrMS5Kuk">Vídeo Benefícios de contratação
-- <a href="#">Vídeo Elevator Pitch
+- <a href="https://youtube.com/shorts/JzmD6qwT-fE?feature=share">Vídeo Elevator Pitch
 - <a href="https://www.youtube.com/channel/UCsYpSb3Rt8ZS-fMFGTHqs-Q">Canal</a>
   
 ## 📘 Documentação da API
