@@ -193,14 +193,14 @@ Isso instalará todas as dependências definidas no arquivo package.json que sã
 
 Abaixo encontra-se os vídeos criados para a apresentação da solução Contrakta. 
 
-- <a href="#">Vídeo Demo
+- <a href="https://youtu.be/Tf5fL_V_IAM">Vídeo Demo
 - <a href="https://www.youtube.com/watch?v=1f-WrMS5Kuk">Vídeo Benefícios de contratação
 - <a href="https://youtube.com/shorts/JzmD6qwT-fE?feature=share">Vídeo Elevator Pitch
 - <a href="https://www.youtube.com/channel/UCsYpSb3Rt8ZS-fMFGTHqs-Q">Canal</a>
   
 ## 📘 Documentação da API
 
-Para acessar a documentação criada para a API da solução, clique aqui.
+Para acessar a documentação criada para a API da solução, <a href="https://documenter.getpostman.com/view/14567470/2s83S5Bsjy">clique aqui.</a>
 
 ## 📄 Referências 
 
