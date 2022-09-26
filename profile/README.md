@@ -202,6 +202,9 @@ Abaixo encontra-se os vídeos criados para a apresentação da solução Contrak
 
 Para acessar a documentação criada para a API da solução, <a href="https://documenter.getpostman.com/view/14567470/2s83S5Bsjy">clique aqui.</a>
 
+Deploy solução: 44.211.80.146<br>
+Deploy API: <a href="http://44.211.80.146/api/v1/">http://44.211.80.146/api/v1/</a>
+
 ## 📄 Referências 
 
 - AWS (Brasil).O que é uma API?. [S. l.], 2° Semestre 2022.Disponível em: https://aws.amazon.com/pt/what-is/api/. Acesso em: 25 set. 2022.
